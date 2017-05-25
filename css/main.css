@@ -1,0 +1,10 @@
+h1{
+	font-size: 100px;
+	color: purple;
+	border: 15px dashed yellow;
+}
+p{
+	font-size: 40px;
+	font-family: "Comic Sans";
+	color: magenta;
+}
